@@ -1,4 +1,4 @@
-# CS3900-WOMS
+# CS3900-WoPro
 Work Order Management System Base Repository
 
 ## Purpose
